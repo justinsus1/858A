@@ -26,7 +26,7 @@
     1. Blue dispensers - 10 disks
     2. Purple dispensers - 8 discs
     3. Purple dispensers - arm horizontal
-    4. Yellow dispenser - 10 disks
+    4. Yellow dispenser - 9 disks
     5. All dispensers undamaged
     6. Field tiles flat
     7. Fence attached to field
