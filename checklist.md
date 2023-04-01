@@ -30,3 +30,6 @@
     5. All dispensers undamaged
     6. Field tiles flat
     7. Fence attached to field
+5. Robot
+    1. Make sure robot is not damaged
+    2. Spares
